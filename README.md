@@ -1,4 +1,4 @@
-#Electronics Calculator Suite 
+## Electronics Calculator Suite 
 
 A python-based modular claculator specifically designed to automate everyday electronics engineering formulas. This project demonstrate core programming concepts like multi-file modulatory, functions and user-input handling.
 
