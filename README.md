@@ -1,7 +1,26 @@
-## Electronics Calculator Suite 
+# Python-for-VLSI-Automation-Bootcamp
+A comprehensive repository containing 5 practical Python projects designed to bridge the gap between software programming and electronics/VLSI automation. 
 
-A python-based modular claculator specifically designed to automate everyday electronics engineering formulas. This project demonstrate core programming concepts like multi-file modulatory, functions and user-input handling.
+## Project Structure & Navigation
+Each folder contains an independent Python tool targeting a specific programming concept used in EDA tool scripting and verification.
 
-## VLSI & Automation Relevance
-In VLSI and hardware Automation, engineeering tasks are broken down into small, reusable functions (modules). This project serves as a foundational step toward understanding logic building, which is critical for writing hardware description language like verilog and automation scripts.
+1. ** 01_Multi-File_electronics_calculator/**
+   - **Concepts:** Multi-file modularity, custom functions, electronics math logic.
+   - **VLSI Link:** Prepares foundation for writing hardware logic modules in Verilog.
+2. ** 02_log_file_parser/**
+   - **Concepts:** File I/O, string pattern filtering, report logging.
+   - **VLSI Link:** Mimics EDA tool log parsing to extract critical setup/hold violations.
+3. ** 03_lab_inventory_system/**
+   - **Concepts:** Python Dictionaries, Lists, JSON file state management.
+   - **VLSI Link:** Teaches how to manage netlist properties and chip pin metadata structures.
+4. ** 04_pin_config_regex/**
+   - **Concepts:** Regular Expressions (`re` module), automated pattern matching.
+   - **VLSI Link:** Crucial for automating pad-ring routing and parsing top-level chip ports.
+5. ** 05_csv_wave_visualizer/**
+   - **Concepts:** Third-party libraries (`pandas`, `matplotlib`), CSV parsing.
+   - **VLSI Link:** Recreates digital wave viewing logic similar to industry waveform viewers like GTKWave/Verdi.
+  
+
+
+
 
