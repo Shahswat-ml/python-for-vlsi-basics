@@ -1,4 +1,4 @@
-# Python-for-VLSI-Automation-Bootcamp
+# Python-for-VLSI-Automation
 A comprehensive repository containing 5 practical Python projects designed to bridge the gap between software programming and electronics/VLSI automation. 
 
 ## Project Structure & Navigation
